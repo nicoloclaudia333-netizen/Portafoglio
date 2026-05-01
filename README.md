@@ -29,4 +29,4 @@ Sito portfolio personale realizzato come progetto finale del Master UX/UI Design
 
 ## Visualizza il sito
 
-[claudiaportfolio.netlify.app]
+(claudiaportfolio.netlify.app)
