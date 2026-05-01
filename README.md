@@ -29,4 +29,4 @@ Sito portfolio personale realizzato come progetto finale del Master UX/UI Design
 
 ## Visualizza il sito
 
-[nicoloclaudia333-netizen.github.io/portfolio](https://nicoloclaudia333-netizen.github.io/portfolio)
+claudiaportfolio.netlify.app
